@@ -1,0 +1,19 @@
+{% assign workauthorization = site.data.data.sidebar.workauthorization %}
+{% if workauthorization %}
+<div class="workauthorization-container container-block">
+
+  <h2 class="container-block-title">
+    Work Authorization
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for workauthorization in workauthorization %}
+    <li>
+      {{ workauthorization.idiom }}
+      <span class="lang-desc">({{ workauthorization.level }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
