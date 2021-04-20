@@ -4,188 +4,104 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Tenglong Gu
+    tagline: Associate Tech Lead
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: neilgu00365@gmail.com
+    phone: +81 90 6635 0365
+    # website: blog.webjeda.com #do not add http://
+    # linkedin: alandoe
+    wechat: neil6666
+    # github: neilgu00365
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese(Manderin)
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Japanese
         level: Professional
+
+    workauthorization:
+      - idiom: Permanent Residency in Japan
 
     interests:
-      - item: Climbing
+      - item: Film Photography
         link:
 
-      - item: Snowboarding
+      - item: Scuba Diving(Advanced Open Water Diver Certification)
         link:
 
-      - item: Cooking
+      - item: Mens Physique
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Engineering (ME)
+      university: Kyushu Institute of Technology | Kitakyushu, Fukuoka, Japan
+      time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - Sekihara Kitakyushu Dalian Exchange Student Scholarship
+          - Attended a full-time General, Technical and Academic English course in University of Surrey, UK
+    - degree: Bachelor in Engineering (BE)
+      university: Dalian Jiaotong University | Dalian, Liaoning, China
+      time: 2007 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Dual-degree of Mechanical Engineering and Automation + Software Engineering
+          - Head of the propaganda department of the Student Union
+          
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - time: April 2015 - Present
+      company: AUTOMOTIVE COMPANY, PANASONIC CORPORATION | Yokohama, Kanagawa, Japan
+
+    - role: Associate Tech Lead
+      time: 2018 - Present
+      division: Automotive R&D Division
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Led and managed a global development and evaluation team between head quarter in Japan and branch company Germany, developed next generation automotive vision sensing algorithm to maturity, that utilized for both Advanced Driving Assistance Systems (ADAS) project and 2020(2021) Tokyo Olympic Games autonomous driving showcase project. Negotiate with biggest automotive Original Equipment Manufacturer (OEM) in Japan for mass production.
+        - Successfully led a cross-functional global team of 17, developed a sensing algorithm and participated in a showcase project with the biggest automotive OEM in Japan for 2020(2021) Tokyo Olympic Games.
+        - Managed a sensing algorithm for Request for Quotation (RFQ) project and won a candidate supplier place during negotiating with Japanese OEMs.
+        - Main developer of building a virtual verification environment, enhanced and improved work efficiency to 175%.
+        - Designed and built an automation virtual data generation architecture, saved cost of $3 million (0.3 billion yen).
+        - Lead author of 5 patents, co-author of 2 patents related to advanced sensing algorithms and autonomous driving.
+        - English is the daily business language.
+    
+    - role: Research & Development Engineer
+      time: 2015 - 2018
+      division: ADAS Development Center
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        Research and development advanced sensing algorithms for automotive to build competitive advantages. Led a global development team in an embedded activity for achieving a low cost of ADAS solution for appealing to OEMs.
+        - Experienced in assembly line production process and sales activities.
+        - Researched and developed a prove of concept (PoC) sensing algorithm prototype used in mass production.
+        - Contact person of a global development team of 6, led an embedded activity for implementing algorithm into SoC (system on chip), reduced 50% of the computation cost. 
+        - Led to formulate evaluation specification and maturity assessment strategies for sensing algorithms between Japan and international development partners.
+        - Lead author of 2 patents, and co-author of 1 patent related to camera sensing algorithms.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Data Analytics 
+              (Python, Data Visualization)
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Computer Vision
+              (Visual Sensing Algorithm)
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Agile Management
+             (Jira, Confluence, Bitbucket)
+        level: 90%
